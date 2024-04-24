@@ -1,5 +1,9 @@
+import { ThemeModeScript } from "flowbite-react";
 import { Inter } from "next/font/google";
 import "./globals.css";
+
+import Footer from "@/components/footer/footer";
+import NavigationBar from "@/components/navigation-bar/navigation-bar";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -11,7 +15,14 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className={inter.className}>{children}</body>
+      <head>
+        <ThemeModeScript></ThemeModeScript>
+      </head>
+      <body className={inter.className}>
+        <NavigationBar />
+        <main>{children}</main>
+        <Footer />
+      </body>
     </html>
   );
 }

@@ -1,0 +1,213 @@
+[
+  {
+    "cheetiId": "cbd7e0eb-4994-49d3-b105-7d2553a61f7f",
+    "cheetiName": "kazoo",
+    "cheetiValue": 100000,
+    "monthlyPremium": 10000,
+    "managerName": "Debra Murphy MD",
+    "cheetiTenure": 10,
+    "cheetiStartYear": 2013,
+    "cheetiStartMonth": 7,
+    "isClosed": true
+  },
+  {
+    "cheetiId": "46bc96ee-a8b2-4b0a-bd49-99332ce27da5",
+    "cheetiName": "inquiry",
+    "cheetiValue": 100000,
+    "monthlyPremium": 10000,
+    "managerName": "Christopher Will",
+    "cheetiTenure": 10,
+    "cheetiStartYear": 2016,
+    "cheetiStartMonth": 7
+  },
+  {
+    "cheetiId": "fb951fbc-55b1-4d74-a714-d60f5ec8c79e",
+    "cheetiName": "observation",
+    "cheetiValue": 200000,
+    "monthlyPremium": 20000,
+    "managerName": "Dr. May Leannon",
+    "cheetiTenure": 10,
+    "cheetiStartYear": 2023,
+    "cheetiStartMonth": 8
+  },
+  {
+    "cheetiId": "571e7989-b5ef-481b-83b7-35f9bb46eb23",
+    "cheetiName": "misreading",
+    "cheetiValue": 100000,
+    "monthlyPremium": 10000,
+    "managerName": "Dr. Victoria Corwin",
+    "cheetiTenure": 10,
+    "cheetiStartYear": 2022,
+    "cheetiStartMonth": 1
+  },
+  {
+    "cheetiId": "bd6925e1-1129-48ea-b1c9-24340f3007d4",
+    "cheetiName": "spiderling",
+    "cheetiValue": 100000,
+    "monthlyPremium": 10000,
+    "managerName": "Teri Marks",
+    "cheetiTenure": 10,
+    "cheetiStartYear": 2013,
+    "cheetiStartMonth": 2
+  },
+  {
+    "cheetiId": "69e668f7-c4f5-482a-b66d-ce96a3ae534a",
+    "cheetiName": "jug",
+    "cheetiValue": 200000,
+    "monthlyPremium": 20000,
+    "managerName": "Rufus Renner",
+    "cheetiTenure": 10,
+    "cheetiStartYear": 2022,
+    "cheetiStartMonth": 6
+  },
+  {
+    "cheetiId": "d792ce36-3433-4a53-98c9-d251e96b03a6",
+    "cheetiName": "chainstay",
+    "cheetiValue": 100000,
+    "monthlyPremium": 10000,
+    "managerName": "Randall Ebert",
+    "cheetiTenure": 10,
+    "cheetiStartYear": 2019,
+    "cheetiStartMonth": 6
+  },
+  {
+    "cheetiId": "a4d6bf1e-da67-41b0-bd19-5d22803a0a5c",
+    "cheetiName": "infiltration",
+    "cheetiValue": 100000,
+    "monthlyPremium": 10000,
+    "managerName": "Anita McKenzie",
+    "cheetiTenure": 10,
+    "cheetiStartYear": 2023,
+    "cheetiStartMonth": 6
+  },
+  {
+    "cheetiId": "220e1ea4-0e83-42ba-9de8-c43106d4b8a3",
+    "cheetiName": "grouper",
+    "cheetiValue": 200000,
+    "monthlyPremium": 20000,
+    "managerName": "Olivia Rippin",
+    "cheetiTenure": 10,
+    "cheetiStartYear": 2016,
+    "cheetiStartMonth": 10
+  },
+  {
+    "cheetiId": "cca6e76a-89ec-4616-8ef5-805eb58276e2",
+    "cheetiName": "attempt",
+    "cheetiValue": 100000,
+    "monthlyPremium": 10000,
+    "managerName": "Matthew Nicolas-Muller",
+    "cheetiTenure": 10,
+    "cheetiStartYear": 2016,
+    "cheetiStartMonth": 1
+  },
+  {
+    "cheetiId": "e8ee9284-b107-4c41-b9b1-d84e7a7305cc",
+    "cheetiName": "wrecker",
+    "cheetiValue": 100000,
+    "monthlyPremium": 10000,
+    "managerName": "Herman Altenwerth",
+    "cheetiTenure": 10,
+    "cheetiStartYear": 2020,
+    "cheetiStartMonth": 8
+  },
+  {
+    "cheetiId": "3c088da3-903d-4592-a346-84ec3cd7598c",
+    "cheetiName": "hearthside",
+    "cheetiValue": 200000,
+    "monthlyPremium": 20000,
+    "managerName": "Dallas Kshlerin",
+    "cheetiTenure": 10,
+    "cheetiStartYear": 2015,
+    "cheetiStartMonth": 11
+  },
+  {
+    "cheetiId": "01dd1b3b-2d8b-42cf-b326-94cceaaa417d",
+    "cheetiName": "deficit",
+    "cheetiValue": 100000,
+    "monthlyPremium": 10000,
+    "managerName": "Dixie Kihn",
+    "cheetiTenure": 10,
+    "cheetiStartYear": 2015,
+    "cheetiStartMonth": 1
+  },
+  {
+    "cheetiId": "70091c19-f0a6-42fa-92fe-1598db4ed6d6",
+    "cheetiName": "scholar",
+    "cheetiValue": 100000,
+    "monthlyPremium": 10000,
+    "managerName": "Tom Tillman",
+    "cheetiTenure": 10,
+    "cheetiStartYear": 2013,
+    "cheetiStartMonth": 6
+  },
+  {
+    "cheetiId": "77e0f8da-51f1-4cf8-b6af-98afd20b7c5a",
+    "cheetiName": "bucket",
+    "cheetiValue": 200000,
+    "monthlyPremium": 20000,
+    "managerName": "Ervin Miller",
+    "cheetiTenure": 10,
+    "cheetiStartYear": 2021,
+    "cheetiStartMonth": 12
+  },
+  {
+    "cheetiId": "737a5a8b-44ca-434a-9bcf-913bb51a1e15",
+    "cheetiName": "screen",
+    "cheetiValue": 100000,
+    "monthlyPremium": 10000,
+    "managerName": "Ramon Swift",
+    "cheetiTenure": 10,
+    "cheetiStartYear": 2020,
+    "cheetiStartMonth": 6
+  },
+  {
+    "cheetiId": "06027b21-1314-4613-a591-b04e395a804c",
+    "cheetiName": "depot",
+    "cheetiValue": 100000,
+    "monthlyPremium": 10000,
+    "managerName": "Mr. Darnell D'Amore",
+    "cheetiTenure": 10,
+    "cheetiStartYear": 2020,
+    "cheetiStartMonth": 10
+  },
+  {
+    "cheetiId": "922eca01-5227-4685-afbe-7ce64ba4a5c0",
+    "cheetiName": "traditionalism",
+    "cheetiValue": 200000,
+    "monthlyPremium": 20000,
+    "managerName": "Mr. Lamar Heidenreich",
+    "cheetiTenure": 10,
+    "cheetiStartYear": 2019,
+    "cheetiStartMonth": 1
+  },
+  {
+    "cheetiId": "edc2171b-687c-45a0-b882-3a32c6a6ef72",
+    "cheetiName": "fundraising",
+    "cheetiValue": 100000,
+    "monthlyPremium": 10000,
+    "managerName": "Jessica Wunsch",
+    "cheetiTenure": 10,
+    "cheetiStartYear": 2021,
+    "cheetiStartMonth": 7
+  },
+  {
+    "cheetiId": "8bc94e3c-0aae-4b98-a178-36caa32a4850",
+    "cheetiName": "zen",
+    "cheetiValue": 100000,
+    "monthlyPremium": 10000,
+    "managerName": "Lena Koepp",
+    "cheetiTenure": 10,
+    "cheetiStartYear": 2019,
+    "cheetiStartMonth": 11
+  },
+  {
+    "cheetiId": "18d07d52-897d-4033-9994-1fb689e03c6a",
+    "cheetiName": "waterbed",
+    "cheetiValue": 200000,
+    "monthlyPremium": 20000,
+    "managerName": "Nathaniel Dooley",
+    "cheetiTenure": 10,
+    "cheetiStartYear": 2019,
+    "cheetiStartMonth": 10
+  }
+]
