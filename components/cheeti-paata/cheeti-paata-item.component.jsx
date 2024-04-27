@@ -41,17 +41,19 @@ function CheetiPaataItem(props) {
         />
         <hr />
         <div className="actions flex justify-between font-mono">
-          <Link href={`/cheeti-paatalu/${cheetiId}`}>
-            <span className="text-blue-600 underline font-bold">Explore</span>
+          <Link href={`/cheeti-paatalu/${cheetiId}/payment`}>
+            <span className="text-blue-600 underline font-bold">
+              Add New Payment
+            </span>
           </Link>
-          {/* <Link href={`/cheeti-paatalu/${cheetiId}/summary`}>
+          <Link href={`/cheeti-paatalu/${cheetiId}/summary`}>
             <span className="text-purple-500 underline font-bold">
               Show Summary
             </span>
           </Link>
           <Link href={`/cheeti-paatalu/${cheetiId}/analysis`}>
             <span className="text-red-600 underline font-bold">Analyse</span>
-          </Link> */}
+          </Link>
         </div>
       </Card>
     </div>
